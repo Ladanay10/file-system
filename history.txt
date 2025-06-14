@@ -1,0 +1,6 @@
+2025-06-09 22:34:16 - DELETE: D:\test\LADANAY.txt
+2025-06-09 22:34:35 - RENAME: D:\test\TESTKI -> D:\test\TESTKI.
+2025-06-09 22:34:38 - RENAME: D:\test\TESTKI -> D:\test\TESTKI
+2025-06-09 22:34:50 - RENAME: D:\test\TESTKI -> D:\test\TESTKI.txt
+2025-06-09 22:35:00 - COPY: D:\test\TESTKI.txt -> D:\test\TESTKI.txt
+2025-06-09 22:36:43 - DELETE: D:\test\TESTKI (1).txt

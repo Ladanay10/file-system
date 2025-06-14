@@ -1,0 +1,6 @@
+2025-03-06 19:44:18 - DELETE: D:\test\Cyberpunk 2077 4K.jpg
+2025-03-06 19:44:22 - DELETE: D:\test\Cyberpunk 2077 4K.jpg.bak
+2025-03-06 19:44:23 - DELETE: D:\test\Cyberpunk 2077 4K.jpg.bak.bak
+2025-03-06 19:44:25 - UNDO DELETE: D:\test\Cyberpunk 2077 4K.jpg.bak.bak
+2025-03-06 19:44:26 - UNDO DELETE: D:\test\Cyberpunk 2077 4K.jpg.bak
+2025-03-06 19:44:27 - UNDO DELETE: D:\test\Cyberpunk 2077 4K.jpg
